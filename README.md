@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nagahzavira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me LinkedIn
+- 👋 Hi, I’m Arivazhagan L
+- 👀 I’m interested in TECH
+- 🌱 I’m currently learning System Architecture
+- 💞️ I’m looking to collaborate on tech ideas. 
+- 📫 How to reach me Slack
 
 <!---
 Nagahzavira/Nagahzavira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
