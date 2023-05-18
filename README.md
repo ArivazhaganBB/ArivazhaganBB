@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arivazhagan L
+- 👋 Hi, I’m Ariv
 - 👀 I’m interested in TECH
 - 🌱 I’m currently learning System Architecture
 - 💞️ I’m looking to collaborate on tech ideas. 
